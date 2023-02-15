@@ -2,6 +2,14 @@
 
 An efficient memory-enhanced encoder-decoder language model for long document summarization: combining text segmentation and cross-memory attention.
 
+<p align="center">
+  <img src="./figures/overview.png" title="Overview" alt="Overview">
+</p>
+
+<p align="center">
+  <img src="./figures/memory.png" title="Memory" alt="Memory">
+</p>
+
 ## Supplementary Material
 
 Check [human evaluation results](human_eval/).
